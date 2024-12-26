@@ -1,2 +1,1 @@
-# 2-Phoenix-SimpleSubstitutionCipher
-&lt;DESCRIPTION>
+# Simple Substitution Cipher!
