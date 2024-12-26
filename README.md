@@ -1,6 +1,6 @@
 # Simple Substitution Cipher!
+Welcome to the Simple Substitution Cipher Challenge! A simple substitution cipher is a fun way to obscure a message by swapping out each letter for another letter in the alphabet. The trick is that every instance of a letter in the original text is replaced with the same letter consistently. This creates a puzzle just waiting to be unraveled! If you’re curious to dive deeper into the mechanics of this cipher, feel free to check out the [Wikipedia article on Substitution Ciphers](https://en.wikipedia.org/wiki/Substitution_cipher).
 
-## Overview
-A simple substitution cipher is a method of encrypting information by replacing each letter in the plaintext with another letter from the alphabet. Each letter is consistently replaced throughout the message, making it easy to understand once the substitution key is discovered.
+Now, how do you crack this code? First, take a good look at the letters in the encrypted message. Some letters pop up more frequently than others—this is where frequency analysis comes into play! For example, in English, letters like E, T, and A are often the stars of the show. By identifying which letters appear the most, you’ll be one step closer to unveiling the hidden message. Also, keep an eye out for common short words like “the” or “and.” These can act like signposts, guiding you toward the right letter substitutions.
 
-For more in-depth information, check out the [Wikipedia article on Substitution Ciphers](https://en.wikipedia.org/wiki/Substitution_cipher).
+Getting into the groove of solving will be a mix of curiosity and creativity. Use your instincts, make educated guesses, and don’t be afraid to adjust your substitutions as you go. Think of it as a treasure hunt—each clue you find brings you closer to unveiling the mystery! So grab your detective hat and dive into the challenge. Happy decrypting!
